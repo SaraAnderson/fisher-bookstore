@@ -9,7 +9,6 @@ namespace Fisher.Bookstore.Models
             : base(options)
             {
             }
-
             public DbSet<Book> Books { get; set; }
     }
 }
