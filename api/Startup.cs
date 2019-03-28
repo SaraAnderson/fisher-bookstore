@@ -12,6 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore;
 using Fisher.Bookstore.Models;
+using Fisher.Bookstore.Api.Data;
 
 namespace Fisher.Bookstore.Api
 {
@@ -27,7 +28,7 @@ namespace Fisher.Bookstore.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<BookstoreContext>(options => options.UseInMemoryDatabase("Books"));
+            services.AddDbContext<BookstoreContext>(options => options.UseNpgsql(Configuration.GetConnectionString("BookstoreContext")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
