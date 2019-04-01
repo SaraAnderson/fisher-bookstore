@@ -1,0 +1,10 @@
+using System;
+using Xunit;
+
+namespace tests {
+    public class BookTest {
+        [Fact]
+        public void ChangePublicationDate() {
+        }
+    }
+}
