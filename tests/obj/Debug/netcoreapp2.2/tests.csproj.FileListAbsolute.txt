@@ -1,0 +1,14 @@
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/bin/Debug/netcoreapp2.2/tests.deps.json
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/bin/Debug/netcoreapp2.2/tests.runtimeconfig.json
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/bin/Debug/netcoreapp2.2/tests.runtimeconfig.dev.json
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/bin/Debug/netcoreapp2.2/tests.dll
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/bin/Debug/netcoreapp2.2/tests.pdb
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/obj/Debug/netcoreapp2.2/tests.csprojAssemblyReference.cache
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/obj/Debug/netcoreapp2.2/tests.csproj.CoreCompileInputs.cache
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/obj/Debug/netcoreapp2.2/tests.AssemblyInfoInputs.cache
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/obj/Debug/netcoreapp2.2/tests.AssemblyInfo.cs
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/obj/Debug/netcoreapp2.2/tests.dll
+/Users/sara/Desktop/AMIS3610/fisher-bookstore/tests/obj/Debug/netcoreapp2.2/tests.pdb
